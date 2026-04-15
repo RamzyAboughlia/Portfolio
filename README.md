@@ -10,9 +10,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage )](https://github.com/RamzyAboughlia/Threat-Hunt-TOR-scenario-)**
-- **[Threat Hunting Scenario (Azuki )](https://github.com/RamzyAboughlia/Azuki-Threat-Hunt)**
-- **[Threat Hunting Scenario (Azuki 2 )](https://github.com/RamzyAboughlia/Part-2-AZUKI)**
+- **[Threat Hunting Scenario ( Tor Browser Usage )](https://github.com/RamzyAboughlia/Threat-Hunt-TOR-scenario-)**
+- **[Threat Hunting Scenario ( Azuki )](https://github.com/RamzyAboughlia/Azuki-Threat-Hunt)**
+- **[Threat Hunting Scenario ( Azuki 2 )](https://github.com/RamzyAboughlia/Part-2-AZUKI)**
 <hr/>
 
 ## 🤳 Connect With Me
